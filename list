@@ -1,0 +1,1 @@
+  rn-nodeify --install "assert,buffer,crypto,dns,domain,events,stream" --hack
